@@ -1,4 +1,9 @@
 #+TITLE: 治则
 #+TAGS:
 
-** 
+** #+BEGIN_NOTE
+   :PROPERTIES:
+   :CUSTOM_ID: 5f36a033-5c2c-4dfd-b071-0b6b3d114c30
+   :END:
+必须的配置
+#+END_NOTE
