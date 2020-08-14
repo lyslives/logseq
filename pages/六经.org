@@ -1,6 +1,9 @@
 #+TITLE: 六经
 #+TAGS:名词解释
 ** 六经为[[病位]]与[[病性]]中的[[阴阳]]组合而成
+   :PROPERTIES:
+   :CUSTOM_ID: 5f35c4ba-1cb7-4466-98fb-f13e21fcbe4e
+   :END:
 ** 意义
 *** 六经决定[[治则]]
    :PROPERTIES:
