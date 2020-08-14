@@ -1,4 +1,10 @@
 #+TITLE: 六经
+   :PROPERTIES:
+   :CUSTOM_ID: 5f35c4ba-d4d3-4162-ba37-70a26c472bac
+   :END:
+   :PROPERTIES:
+   :CUSTOM_ID: 5f35c4ba-d4d3-4162-ba37-70a26c472bac
+   :END:
 #+TAGS:名词解释
 ** 六经为[[病位]]与[[病性]]中的[[阴阳]]组合而成
    :PROPERTIES:
